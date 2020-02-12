@@ -11,7 +11,7 @@
       location = "group:/Users/pengcheng/swift_code/swift_code_basic/&#x591a;&#x9875;&#x9762;/basic4.2_segue&#x591a;&#x9875;&#x9762;.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:base4_1 &#x4e34;&#x65f6;&#x5b58;&#x50a8;/base4_1 &#x4e34;&#x65f6;&#x5b58;&#x50a8;.xcodeproj">
+      location = "group:/Users/pengcheng/swift_code/swift_code_basic/base4_1 &#x4e34;&#x65f6;&#x5b58;&#x50a8;/basic4_1 &#x4e34;&#x65f6;&#x5b58;&#x50a8;.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:basic4_TableView Demo/basic4_TableView Demo.xcodeproj">
@@ -23,7 +23,7 @@
       location = "group:swift_code/swift_code.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:basic_1/../base_2_dice_game/base_2_dice_game.xcodeproj">
+      location = "group:/Users/pengcheng/swift_code/swift_code_basic/base_2_dice_game/basic_2_dice_game.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:MyPlayground.playground">
