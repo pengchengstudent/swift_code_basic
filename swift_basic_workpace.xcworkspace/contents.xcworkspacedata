@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:uber/uber.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:base_4.3&#x8ba1;&#x7b97;&#x5668;/base_4.3&#x8ba1;&#x7b97;&#x5668;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/pengcheng/swift_code/swift_code_basic/&#x591a;&#x9875;&#x9762;/basic4.2_segue&#x591a;&#x9875;&#x9762;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:base4_1 &#x4e34;&#x65f6;&#x5b58;&#x50a8;/base4_1 &#x4e34;&#x65f6;&#x5b58;&#x50a8;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:basic4_TableView Demo/basic4_TableView Demo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:basic_3_&#x79d2;&#x8868;/basic_3_&#x79d2;&#x8868;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:swift_code/swift_code.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:basic_1/../base_2_dice_game/base_2_dice_game.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:basic_1/basic_1.xcodeproj">
+   </FileRef>
+</Workspace>
