@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F94C900923F524AC00170766 /* 06函数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94C900823F524AC00170766 /* 06函数.swift */; };
 		F9EC3DE523EA040D0033B411 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EC3DE423EA040D0033B411 /* main.swift */; };
 		F9EC3DEC23EA04370033B411 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EC3DEB23EA04370033B411 /* Car.swift */; };
 		F9EC3DEE23EA0B220033B411 /* ElectricCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EC3DED23EA0B220033B411 /* ElectricCar.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F94C900823F524AC00170766 /* 06函数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06函数.swift"; sourceTree = "<group>"; };
 		F9EC3DE123EA040D0033B411 /* swift_code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_code; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9EC3DE423EA040D0033B411 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F9EC3DEB23EA04370033B411 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				F9EC3DE423EA040D0033B411 /* main.swift */,
 				F9EC3DEB23EA04370033B411 /* Car.swift */,
 				F9EC3DED23EA0B220033B411 /* ElectricCar.swift */,
+				F94C900823F524AC00170766 /* 06函数.swift */,
 			);
 			path = swift_code;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F94C900923F524AC00170766 /* 06函数.swift in Sources */,
 				F9EC3DEC23EA04370033B411 /* Car.swift in Sources */,
 				F9EC3DE523EA040D0033B411 /* main.swift in Sources */,
 				F9EC3DEE23EA0B220033B411 /* ElectricCar.swift in Sources */,
